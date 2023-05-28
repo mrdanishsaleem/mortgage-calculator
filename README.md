@@ -14,7 +14,7 @@ Mortgage Calculator is built with PHP, HTML, CSS and JavaScript. It is responsiv
 
 ## Demo
 
-You can try out Mortgage Calculator here: [https://mrdanishsaleem.github.io/mortgage-calculator/]
+You can try out Mortgage Calculator here: https://mrdanishsaleem.github.io/mortgage-calculator/
 
 ## Installation
 
